@@ -1,0 +1,16 @@
+Extensión de Chrome y Chromium que roba contraseñas
+Autor: Matías Lang <sh4r3m4n>
+       @sh4r3m4n
+       licenciaparahackear.wordpress.com
+       shareman1204@gmail.com
+
+Esta herramienta está desarrollada con fines educativos. No me hago
+responsable de su uso malintencionado.
+
+Uso: Antes que nada, se debe configurar de antemano el archivo infector.js,
+modificando la URL de host al que se le envían los datos. Luego, podemos
+cargar la extensión sin empaquetar activando el modo de programador de
+extensiones. También es posible empaquetar la carpeta de la extensión en
+formato crx, para que se instale automáticamente al ejecutarse.
+
+Esta extensión se encuentra bajo licencia GPLv3, visible en el archivo LICENSE
